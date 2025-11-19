@@ -1,0 +1,11 @@
+Laiba|M|1|0|0
+laiba|m|1|2000|2
+A|F|2|1000|1
+Simal|F|1|80000|7
+Ahmed|M|1|1000|1
+ahmed|m|1|5000|3
+sls|m|1|0|0
+lili|F|1|0|0
+Ahm|M|1|0|0
+Fatima|F|1|2000|2
+SIM|F|1|0|0

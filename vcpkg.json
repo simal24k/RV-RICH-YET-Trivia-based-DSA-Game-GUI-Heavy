@@ -1,0 +1,6 @@
+{
+    "name": "rvrichyet",
+    "description": "RVRichYet",
+    "license": "MIT",
+    "dependencies": ["raylib"]
+}

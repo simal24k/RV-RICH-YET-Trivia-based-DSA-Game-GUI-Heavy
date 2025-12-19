@@ -1,0 +1,5 @@
+// Resource file to embed the icon into the executable.
+// The number '1' is the standard identifier for the main application icon.
+// The file path must point to your man.ico file.
+
+1 ICON "man.ico"
